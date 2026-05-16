@@ -1,4 +1,4 @@
-# 
+# updated Visual Studio for PC | Visual Studio for Windows Snippet | docker-support + testing-tools offers the most advanced Visual Studio for PC | Visual Studio for Windows
 
 
 
